@@ -1,0 +1,13 @@
+{
+  "name": "bxExcel",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "angular": "~1.2.0",
+    "angular-resource": "~1.2.0",
+    "angular-bootstrap": "~0.6.0",
+    "angular-ui-router": "0.2.0",
+    "ngToolboxx": "latest",
+    "jquery": "~2.0.3"
+  }
+}

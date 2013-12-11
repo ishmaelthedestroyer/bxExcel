@@ -1,0 +1,14 @@
+{
+  "name": "ngToolboxx",
+  "dependencies": {},
+  "homepage": "https://github.com/ishmaelthedestroyer/ngToolboxx",
+  "_release": "516d8831ec",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "516d8831ec53ae08b2a3e8ca79ff3cc976be1218"
+  },
+  "_source": "git://github.com/ishmaelthedestroyer/ngToolboxx.git",
+  "_target": "*",
+  "_originalSource": "ngToolboxx"
+}

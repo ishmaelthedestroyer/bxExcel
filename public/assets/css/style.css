@@ -1,0 +1,63 @@
+body {
+  background-image: url(../img/bg-orange-red.png);
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  /*
+  background-color: #A8B8CD;
+  */
+}
+*, h1, h2, h3, h4, h5, p, a, em {
+  font-family: 'Ubuntu', sans-serif;
+}
+em {
+  text-decoration: none;
+  font-style: normal;
+  color: #E74C3C;
+}
+.navbar a {
+  font-size: 20px;
+  font-weight: 700;
+}
+.navbar a:hover {
+  color: #E74C3C;
+}
+.navbar ul li ul li a {
+  font-size: 16px;
+}
+.navbar {
+  border-bottom: 1px solid #333;
+  background-color: rgba(238, 238, 238, 0.6);
+}
+.navbar .navbar-toggle {
+  border-color: #dddddd;
+}
+
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+  background-color: #dddddd;
+}
+
+.navbar .navbar-toggle .icon-bar {
+  background-color: #cccccc;
+}
+
+.dropbox {
+  width: 175px;
+  height: 175px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  float: left;
+  margin: 5px;
+  padding: 0;
+  border: 10px dashed #ccc;
+  cursor: pointer;
+}
+.dropbox:hover {
+  border: 10px dashed #428BCA;
+}
+
+.modal .modal-large {
+  width: 80%;
+  margin-left: 10%;
+}
